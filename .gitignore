@@ -1,0 +1,15 @@
+# MATLAB editor and generated files
+*.asv
+*.m~
+*.autosave
+slprj/
+codegen/
+
+# Test and coverage output
+coverage/
+test-results/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
